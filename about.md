@@ -14,8 +14,8 @@ On social media, I can be found here:
 
 Twitter {% include icon-twitter.html username="dawsneyland" %} - 140 characters of Dawsony goodness
 
-Instagram {% include icon-instagram.html username="dawsneyland" %} - To see what I see
-
 Pinterest {% include icon-pinterest.html username="dawsneyland" %} - For any things that I talk about, I'll try and put them here
 
 YouTube {% include icon-pinterest.html username="dawsneyland" %} - All my videos will ultimately be here
+
+Instagram {% include icon-instagram.html username="dawsneyland" %} - To see what I see
