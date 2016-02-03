@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Martin. Let me tell you a little bit about Dawsneyland.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Dawsneyland is the place that has existed for a while now, but only for me as it is essentially in my head. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+It's the place I live, the life I lead, the things I do, the people I love and the struggles I face. Strating this blog is an effort to organise the mish-mash of thoughts I have and share them with whoevwr feels they would like to read them. It's not always the most interesting place in the world, so I'll be selective, and hopefully make it interesting to read.
+
+On social media, I can be found here:
+
+Twitter {% include icon-twitter.html username="dawsneyland" %} - 140 characters of Dawsony goodness
+Instagram {% include icon-instagram.html username="dawsneyland" %} - To see what I see
+Pinterest {% include icon-pinterest.html username="dawsneyland" %} - For any things that I talk about, I'll try and put them here
+YouTube {% include icon-pinterest.html username="dawsneyland" %} - All my videos will ultimately be here
