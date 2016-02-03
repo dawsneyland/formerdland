@@ -100,7 +100,7 @@ a {
     }
     */
     &:hover {
-        color: lighten($text-color, 50%);/*$text-color;*/
+        color: red;/*lighten($text-color, 50%);*/
         /* text-decoration: underline; */
         
     }
