@@ -4,24 +4,14 @@
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
-    <div class="footer-col-wrapper">
-        <ul class="social-media-list">
-          <li>
-            {% include icon-email.html username=site.github_username %}
-          </li>
-          <li>
-            {% include icon-instagram.html username=site.github_username %}
-          </li>
-          <li>
-            {% include icon-youtube.html username=site.github_username %}
-          </li>
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          <li>
-            {% include icon-pinterest.html username=site.twitter_username %}
-          </li>
-        </ul>
+        <nav>
+          {% include icon-email.html username=site.github_username %}
+          {% include icon-instagram.html username=site.github_username %}
+          {% include icon-youtube.html username=site.github_username %}
+          {% include icon-twitter.html username=site.twitter_username %}
+          {% include icon-pinterest.html username=site.twitter_username %}
+          
+        </nav>
 
         <br>
         <p>&#169 Martin Dawson</p>
