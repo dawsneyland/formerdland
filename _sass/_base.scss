@@ -100,9 +100,9 @@ a {
     }
     */
     &:hover {
-        color: $text-color;
+        color: #000000/*$text-color;*/
         /* text-decoration: underline; */
-        font-weight: 600;
+        
     }
 }
 
