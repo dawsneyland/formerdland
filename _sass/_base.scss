@@ -100,7 +100,7 @@ a {
     }
     */
     &:hover {
-        color: #000000/*$text-color;*/
+        color: $text-color * 0.75;/*$text-color;*/
         /* text-decoration: underline; */
         
     }
