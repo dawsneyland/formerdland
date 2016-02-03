@@ -16,6 +16,6 @@ Twitter {% include icon-twitter.html username="dawsneyland" %} - 140 characters 
 
 Pinterest {% include icon-pinterest.html username="dawsneyland" %} - For any things that I talk about, I'll try and put them here
 
-YouTube {% include icon-pinterest.html username="dawsneyland" %} - All my videos will ultimately be here
+YouTube {% include icon-youtube.html username="dawsneyland" %} - All my videos will ultimately be here
 
 Instagram {% include icon-instagram.html username="dawsneyland" %} - To see what I see
