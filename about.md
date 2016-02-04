@@ -12,12 +12,8 @@ It's the place I live, the life I lead, the things I do, the people I love and t
 
 On social media, I can be found here:
 
-{% include icon-twitter.html username="dawsneyland" %} [Twitter](http://twitter.com/dawsneyland) - 140 characters of Dawsony goodness
-
-{% include icon-pinterest.html username="dawsneyland" %} [Pinterest](http://pinterest.com/dawsneyland) - For any things that I talk about, I'll try and put them here
-
-{% include icon-youtube.html username="dawsneyland" %} [YouTube](http://youtube.com/dawsneyland) - All my videos will ultimately be here
-
-{% include icon-instagram.html username="dawsneyland" %} [Instagram](http://instagram.com/dawsneyland) - To see what I see
-
-{% include icon-email.html username="dawsneyland" %} [Email](mailto:dawsneyland@gmail.com) - Drop me an email, but be nice
+* {% include icon-twitter.html username="dawsneyland" %} [Twitter](http://twitter.com/dawsneyland) - 140 characters of Dawsony goodness
+* {% include icon-pinterest.html username="dawsneyland" %} [Pinterest](http://pinterest.com/dawsneyland) - For any things that I talk about, I'll try and put them here
+* {% include icon-youtube.html username="dawsneyland" %} [YouTube](http://youtube.com/dawsneyland) - All my videos will ultimately be here
+* {% include icon-instagram.html username="dawsneyland" %} [Instagram](http://instagram.com/dawsneyland) - To see what I see
+* {% include icon-email.html username="dawsneyland" %} [Email](mailto:dawsneyland@gmail.com) - Drop me an email, but be nice
