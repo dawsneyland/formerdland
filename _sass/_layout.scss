@@ -12,8 +12,10 @@
 }
 
 .site-title {
-    color: #fdfdfd;
-    background-color: #0000e6;
+    color: #$background-color;
+    /*
+    background-color: $background-color;
+    */
     padding-left: 20px;
     padding-right: 20px;
     font-size: 26px;
