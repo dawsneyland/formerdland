@@ -17,3 +17,4 @@ On social media, I can be found here:
 * {% include icon-youtube.html username="dawsneyland" %} [YouTube](http://youtube.com/dawsneyland) - All my videos will ultimately be here
 * {% include icon-instagram.html username="dawsneyland" %} [Instagram](http://instagram.com/dawsneyland) - To see what I see
 * {% include icon-email.html username="dawsneyland" %} [Email](mailto:dawsneyland@gmail.com) - Drop me an email, but be nice
+* {% include icon-rss.html username="dawsneyland" %} [Email](mailto:dawsneyland@gmail.com) - Subscribe to get RSS feed
