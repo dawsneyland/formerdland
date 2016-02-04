@@ -67,6 +67,9 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+    &:hover {
+        color: #29293d;
+    }
 }
 
 li {
@@ -100,8 +103,7 @@ a {
     }
     */
     &:hover {
-        color: red;/*lighten($text-color, 50%);*/
-        /* text-decoration: underline; */
+        text-decoration: underline;
         
     }
 }
