@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "In search of perfection"
-date: 2016-02-09
+subtitle: "Trying to build 'something' about 'something' isn't enough to go on."
+date: 2016-02-09 12:00:00
+author: "Martin Dawson"
+header-img: "img/DSC04616.JPG"
 ---
 
 My last post, the first of this Blog, was short and not that sweet. Functional and a line in the sand to say 'Hi, I've posted something to something' and the reason is encapsulated in that comment there. I wanted to say something on something but wasn't sure what either of those things were or what they were going to look like.
