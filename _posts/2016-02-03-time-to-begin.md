@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Time to begin!"
-date: 2016-02-03
+subtitle: "A short starting post to kick things off."
+date: 2016-02-03 12:00:00
+author: "Martin Dawson"
+header-img: "img/DSC04616.JPG"
 ---
 ![Moi]({{ site.url }}/img/DSC04616.JPG)
 
