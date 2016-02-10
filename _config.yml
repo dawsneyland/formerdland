@@ -1,26 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Dawsneyland
-email: dawsneyland@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write a brilliant description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.dawsneyland.com" # the base hostname & protocol for your site
-twitter_username: dawsneyland
-github_username:  dawsneyland
-instagram_username: dawsneyland
-pinterest_username: dawsneyland
 
-# Post style
-permalink: /blog/:year/:month/:day/:title
+title: Dawsneyland
+
+header-img: img/shelf1.jpg
+
+email: dawsneyland@gmail.com
+
+copyright_name: Martin Dawson
+
+description: "Write your site description here. It will be used as your sites meta description as well!"
+
+baseurl: "/"
+
+url: "http://www.dawsneland.com"
+
+twitter_username: dawsneyland
+
+github_username:  dawsneyland
+
+facebook_username:  dawsneyland
+
+email_username:  dawsneyland@gmail.com
+
+ 
 
 # Build settings
+
 markdown: kramdown
+
+highlighter: rouge
+
+permalink: pretty
+
+paginate: 5
+
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+ 
+
+gems: [jekyll-paginate, jekyll-feed]
