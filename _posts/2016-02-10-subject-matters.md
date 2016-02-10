@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Subject Matters"
-date: 2016-02-10
+subtitle: "Time to list the many things I want to talk about in this Blog"
+date: 2016-02-10 12:00:00
+author: "Martin Dawson"
+header-img: "img/DSC04616.JPG"
 ---
 
 Post number one was short, post number two was rambling on about where to start, and now on to post number three. No more stalling: this is the stuff I want to cover in this Blog.
