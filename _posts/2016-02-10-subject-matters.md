@@ -22,7 +22,7 @@ Post number one was short, post number two was rambling on about where to start,
 
 * *Bikes.* And exercise in general. I love bikes and would like to build one. I need to run more because once upon a time I was pretty good at it. So expect a smudge of that.
 
-* Family. It's inevitable that I'll include stuff about my family. They're the people I love and I want to spend time with. They support me when I want to do things, and will almost certainly help me achieve some of the things I've mentioned above.
+* *Family.* It's inevitable that I'll include stuff about my family. They're the people I love and I want to spend time with. They support me when I want to do things, and will almost certainly help me achieve some of the things I've mentioned above.
 
 I think that's enough to start with. See what I mean about this Blog being a little unfocused? I may never touch on some of the topics above, but I just don't know what I'm going to do yet, so best to get it all on the table.
 
