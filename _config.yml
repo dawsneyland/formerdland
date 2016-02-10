@@ -1,41 +1,21 @@
 # Site settings
-
 title: Dawsneyland
-
 header-img: img/DSC04616.JPG
-
 email: dawsneyland@gmail.com
-
 copyright_name: Martin Dawson
-
 description: "Write your site description here. It will be used as your sites meta description as well!"
-
 baseurl: ""
-
-url: "http://www.dawsneland.com"
-
+url: "http://www.dawsneyland.com"
 twitter_username: dawsneyland
-
 github_username:  dawsneyland
-
 facebook_username:  dawsneyland
-
 email_username:  dawsneyland@gmail.com
-
  
-
 # Build settings
-
 markdown: kramdown
-
 highlighter: rouge
-
 permalink: pretty
-
 paginate: 5
-
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
- 
 
 gems: [jekyll-paginate, jekyll-feed]
