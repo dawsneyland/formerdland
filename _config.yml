@@ -3,13 +3,13 @@ title: Dawsneyland
 header-img: img/DSC04616.JPG
 email: dawsneyland@gmail.com
 copyright_name: Martin Dawson
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Dawsneyland exists in the head of Martin Dawson. Here he shares his thoughts and interests."
 baseurl: ""
 url: "http://www.dawsneyland.com"
 twitter_username: dawsneyland
-github_username:  dawsneyland
-facebook_username:  dawsneyland
-email_username:  dawsneyland@gmail.com
+instagram_username:  dawsneyland
+youtube_username:  dawsneyland
+pinterest_username:  dawsneyland
  
 # Build settings
 markdown: kramdown
