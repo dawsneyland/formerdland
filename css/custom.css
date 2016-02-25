@@ -6,5 +6,5 @@
 }
 
 .intro-header {
-  opacity: 0.6;
+  filter: contrast (50%);
 }
