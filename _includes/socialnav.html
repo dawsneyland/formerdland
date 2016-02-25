@@ -1,4 +1,11 @@
 <ul class="list-inline text-centre social-contacts"> 
+  {% for page in site.pages %}{% if page.title %}
+				{% if page.url != '/404.html' %}
+                <li>
+                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                </li>
+				{% endif %}
+                {% endif %}{% endfor %}
   <li><a href="http://twitter.com/dawsneyland"><i class="fa fa-twitter"></i></a></li>
   <li><a href="http://pinterest.com/dawsneyland"><i class="fa fa-pinterest"></i></a></li>
   <li><a href="http://youtube.com/dawsneyland"><i class="fa fa-youtube"></i></a></li>
