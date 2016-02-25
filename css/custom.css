@@ -8,3 +8,7 @@
 .intro-header {
   filter: brightness (50%);
 }
+
+footer {
+    padding: 0px 0px 0px;
+}
