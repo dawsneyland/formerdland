@@ -1,4 +1,10 @@
 ---
+layout: post
+title: "Why I Like Making Family Videos"
+subtitle: "Despite the narrow audience, I love making family videos"
+date: 2016-02-19 12:00:00
+author: "Martin Dawson"
+header-img: "img/camera.jpg"
 ---
 Last week I was away for a long weekend with my family, and as has become the norm in the last year, I took lots of video of my son and his cousins. Now I’m back from the weekend, it’s time to do what I normally do; import all of the footage, edit the best bits against a backdrop of one of my favourite songs whose lyrics are acceptable for all of my family, upload it to YouTube and let everyone know how to access it.
 
