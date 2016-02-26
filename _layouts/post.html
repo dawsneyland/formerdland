@@ -7,7 +7,8 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <img src="url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+                <img src="{{ post.header-img | prepend: site.baseurl }}" class="img-responsive" alt="">
+       
             </div>
         </div>
     </div>
