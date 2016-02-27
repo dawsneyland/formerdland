@@ -5,6 +5,7 @@ subtitle: "Trying to build 'something' about 'something' isn't enough to go on."
 date: 2016-02-09 12:00:00
 author: "Martin Dawson"
 header-img: "img/board.jpg"
+comments: True
 ---
 
 My last post, the first of this Blog, was short and not that sweet. Functional and a line in the sand to say 'Hi, I've posted something to something'. The problem I've faced can be encapsulated in that comment there. I wanted to say something on something but wasn't sure what either of those things were or what they were going to look like.
