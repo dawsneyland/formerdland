@@ -16,3 +16,9 @@ footer {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', sans-serif;
 }
+
+.intro-header .site-heading .subheading, .intro-header .page-heading .subheading {
+
+    font-family: 'Roboto', sans-serif;
+
+}
