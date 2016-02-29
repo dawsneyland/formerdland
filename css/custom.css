@@ -26,6 +26,11 @@ h1, h2, h3, h4, h5, h6, body {
 
 .post-preview > .post-meta {
     font-style: normal;
+    font-size: 12px;
+}
+
+.post-preview > a > .post-title {
+    font-size: 24px;
 }
 
 .navbar-custom {
