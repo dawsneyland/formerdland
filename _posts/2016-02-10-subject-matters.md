@@ -2,10 +2,12 @@
 layout: post
 title: "Subject Matters"
 subtitle: "Time to list the many things I want to talk about in this Blog"
+description: "Filmmaking, photography, family, projects"
 date: 2016-02-10 12:00:00
 author: "Martin Dawson"
 header-img: "img/books.jpg"
 comments: True
+categories: blog
 ---
 
 Post number one was short, post number two was rambling on about where to start, and now on to post number three. No more stalling! This is the stuff I want to cover in this Blog.
