@@ -2,11 +2,12 @@
 layout: post
 title: "Time to begin"
 subtitle: "Welcome to Dawsneyland."
+description: "This is the first post of my Jekyll blog"
 date: 2016-02-03 12:00:00
 author: "Martin Dawson"
 header-img: "img/watch.jpg"
 comments: True
-categories: blog
+categories: Blog
 ---
 
 It’s time. I have decided that I'd like to start a blog and have finally got around to doing it. It's pretty basic though so, should still fit in to the category of 'fun hobby' rather than the category of 'this takes up so much time, I wish I had never started the f-ing thing'.
