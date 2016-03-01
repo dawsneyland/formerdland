@@ -19,6 +19,8 @@ description: "Stuff I write about stuff I like!"
         {% endif %}
     </a>
     <p class="post-meta">{{ post.date | date: "%-d %B %Y" }} &bull; By</p> <p class="post-meta-author">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</p>
+    <h5 class="post-meta">{{ post.date | date: "%-d %B %Y" }} &bull; By</h5> <h5 class="post-meta-author">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</h5>
+
 </div>
 <hr>
 {% endfor %}
