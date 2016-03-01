@@ -34,6 +34,13 @@ h1, h2, h3, h4, h5, h6, body {
     font-size: 12px;
 }
 
+.post-preview > .post-meta-author {
+    font-style: normal;
+    font-size: 12px;
+    color: purple;
+}
+
+
 .post-preview > a > .post-title {
     font-size: 24px;
     color: purple;
