@@ -31,10 +31,12 @@ h1, h2, h3, h4, h5, h6, body {
 
 .post-preview > a > .post-title {
     font-size: 24px;
+    color: purple;
 }
 
 .navbar-custom {
     font-family:  'Ubuntu', sans-serif;
+    color: purple;
 }
 
 .navbar-brand {
