@@ -6,6 +6,10 @@
   vertical-align: middle;
 }
 
+.fa {
+  color: purple;
+}
+
 .intro-header {
   margin-bottom: 30px;
 }
