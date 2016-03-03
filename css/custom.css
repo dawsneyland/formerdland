@@ -56,6 +56,15 @@ h1, h2, h3, h4, h5, h6, body {
     color: purple;
 }
 
+.navbar-default .navbar-brand {
+    color: purple;
+}
+
+.navbar-default .navbar-text {
+    color: purple;
+}
+
+
 ul.share-buttons{
   list-style: none;
   padding: 0;
