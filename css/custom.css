@@ -64,6 +64,14 @@ h1, h2, h3, h4, h5, h6, body {
     color: purple;
 }
 
+.navbar-default .navbar-link {
+    color: purple;
+}
+
+.navbar-default .btn-link {
+    color: purple;
+}
+
 .navbar-default .navbar-nav > li > a {
     color: purple;
 }
