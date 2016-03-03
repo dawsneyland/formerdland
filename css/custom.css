@@ -64,6 +64,13 @@ h1, h2, h3, h4, h5, h6, body {
     color: purple;
 }
 
+@media (max-width: 767px) 
+{
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #777;
+  }
+}
+
 .navbar-default .navbar-link {
     color: purple;
 }
